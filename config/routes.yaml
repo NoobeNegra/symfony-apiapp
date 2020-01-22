@@ -1,0 +1,3 @@
+get-info:
+    path: api/get-info/{count}
+    controller: App\Controller\APIController::getDummyInformation
